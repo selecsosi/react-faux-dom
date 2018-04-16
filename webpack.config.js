@@ -25,7 +25,8 @@ const config = {
         commonjs2: 'react',
         commonjs: 'react',
         amd: 'react'
-      }
+      },
+      window: 'window'
     }
   ]
 }
